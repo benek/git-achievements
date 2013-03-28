@@ -2,6 +2,7 @@
 <title>Javier Ramírez Jr.'s Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Historian (Level 3)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Socialite (Level 3)</title><description>pushed a branch to a remote repository using git push</description></item>
